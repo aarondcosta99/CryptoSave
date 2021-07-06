@@ -1,0 +1,6 @@
+com/example/testapp/Class/encode.java
+ com.example.testapp.Class.encode
+com/example/testapp/BuildConfig.java
+ com.example.testapp.BuildConfig
+com/example/testapp/Class/decode.java
+ com.example.testapp.Class.decode
